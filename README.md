@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Red Camel Projects!
 
 You can use the [editor on GitHub](https://github.com/redcamelprojects/redcamelprojects.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
